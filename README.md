@@ -1,1 +1,1 @@
-Course Hexlet to work with command line and git
+Hello, Hexlet! How are you?
